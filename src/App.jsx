@@ -45,7 +45,7 @@ function App() {
             cursor: 'pointer',
           }}
         >
-          Install App
+          Install App   
         </button>
       )}
     </div>
